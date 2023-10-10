@@ -9,3 +9,8 @@ h2{
   color: wheat;
 }
 
+ul{
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 50px;
+  font-weight: 40px;
+}
